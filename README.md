@@ -1,4 +1,4 @@
-# Books REST API !
+# Books REST API ![Node.js CI](https://img.shields.io/badge/nodejs-API-green)
 
 A simple RESTful API built with **Node.js** and **Express** to manage a list of books with full CRUD operations. This project is ideal for learning REST API basics, Express routing, and in-memory data handling.
 
